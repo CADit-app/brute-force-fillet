@@ -8,7 +8,7 @@ export const setupFillet = (manifoldInstance: ManifoldToplevel) => {
 
 export const getManifold = (): ManifoldToplevel => {
   if (!manifold) {
-    throw new Error('Manifold instance not set. Call setupFillet(manifold) before using fillet functions.');
+    throw new Error('Manifold instance not set. Call setupFillet(manifold) before using fillet functions...');
   }
   return manifold;
 };

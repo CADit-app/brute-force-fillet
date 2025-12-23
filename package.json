@@ -1,6 +1,6 @@
 {
   "name": "@cadit-app/brute-force-fillet",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An implementation of a fillet algorithm for ManifoldCAD",
   "type": "module",
   "main": "dist/index.js",

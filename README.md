@@ -1,8 +1,11 @@
 # Brute force fillet
 
-![Brute force fillet](./images/fillet-image.webp)
+![Brute force fillet](./images/thumbnail-0e5ga3X_.png)
 
 An implementation of a fillet algorithm for ManifoldCAD.
+
+Based on the following GitHub discussion:
+https://github.com/elalish/manifold/discussions/1411
 
 > 🔧 This is a [CADit](https://cadit.app) script package - a code-based 3D model you can open and modify.
 > 

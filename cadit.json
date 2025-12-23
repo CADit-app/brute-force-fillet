@@ -1,19 +1,19 @@
 {
   "entryPoint": "index.ts",
   "name": "Brute force fillet",
-  "description": "An implementation of a fillet algorithm for ManifoldCAD.",
+  "description": "An implementation of a fillet algorithm for ManifoldCAD.\r\n\r\nBased on the following GitHub discussion:\r\nhttps://github.com/elalish/manifold/discussions/1411",
   "category": "tools",
   "license": {
     "type": "cc-by-sa"
   },
   "images": [
     {
-      "path": "images/fillet-image.webp",
+      "path": "images/thumbnail-0e5ga3X_.png",
       "isPrimary": true
     }
   ],
   "metadata": {
-    "createdAt": "2025-12-23T21:21:02.837Z",
+    "createdAt": "2025-12-23T21:28:14.645Z",
     "createdWith": "cadit-web",
     "designId": "wIa5FxVEIZp47ZS"
   }
